@@ -1,0 +1,3 @@
+<templateSet group="html/xml">
+  <template name="{{" value="{{ $SELECTION$ }}" description="angular braces" toReformat="false" toShortenFQNames="true" />
+</templateSet>

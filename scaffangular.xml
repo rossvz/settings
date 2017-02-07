@@ -1,0 +1,11 @@
+<application>
+  <component name="scaffangular">
+    <option name="moduleNameSuggestions">
+      <list>
+        <option value="core" />
+        <option value="starter" />
+        <option value="users" />
+      </list>
+    </option>
+  </component>
+</application>

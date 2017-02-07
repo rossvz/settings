@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Start Mongo" description="Start Mongo Up" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/mongod" />
+      <option name="PARAMETERS" value="--config mongodb.config" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/tut/AngularJS Patterns Clean Code/ng-demos/cc-bmean/src/server/data" />
+    </exec>
+  </tool>
+</toolSet>
