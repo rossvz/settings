@@ -81,6 +81,7 @@
       </properties>
       <CLASSES>
         <root url="file:///usr/local/lib/node_modules/karma-jasmine/lib" />
+        <root url="file:///usr/local/lib/node_modules/karma-jasmine/lib" />
       </CLASSES>
       <SOURCES />
     </library>
