@@ -174,6 +174,12 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="914b96" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="d7f5eb" />
@@ -281,7 +287,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -2476,7 +2482,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -5635,7 +5641,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="e2ffe0" />
       </value>
     </option>
@@ -7338,7 +7344,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="e0fff9" />
       </value>
     </option>
@@ -9041,7 +9047,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="fff8e6" />
       </value>
     </option>
@@ -10717,7 +10723,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_ID">
@@ -12328,7 +12334,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="d8f0d5" />
       </value>
     </option>
@@ -14031,7 +14037,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="d7f5ee" />
       </value>
     </option>
@@ -15734,7 +15740,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="f5efdf" />
       </value>
     </option>
@@ -17437,7 +17443,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d8c93" />
+        <option name="FOREGROUND" value="914b96" />
         <option name="BACKGROUND" value="f5f5f5" />
       </value>
     </option>
