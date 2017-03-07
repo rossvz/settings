@@ -412,8 +412,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="b30005" />
-        <option name="ERROR_STRIPE_COLOR" value="ff1200" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="e75b5d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
