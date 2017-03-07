@@ -414,6 +414,7 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="e75b5d" />
+        <option name="ERROR_STRIPE_COLOR" value="ff1200" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
