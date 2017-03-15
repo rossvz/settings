@@ -63,8 +63,8 @@
       <option name="workingDir" value="$USER_HOME$/projects/OnCue/oncue-pod/app/client/styles/themes/default" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist --source-maps  --presets es2015" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist --source-maps --presets env" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -76,8 +76,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/usr/local/bin/babel" />
-      <option name="scopeName" value="Changed Files" />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v6.9.5/bin/babel" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
