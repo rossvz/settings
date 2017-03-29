@@ -1,9 +1,8 @@
 <scheme name="EasyOnTheEyes" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
@@ -288,7 +287,8 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -2484,8 +2484,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_EMOJI_ID">
@@ -5643,8 +5644,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="e2ffe0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_EMOJI_ID">
@@ -7346,8 +7348,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="e0fff9" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_EMOJI_ID">
@@ -9049,8 +9052,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="fff8e6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_EMOJI_ID">
@@ -10725,7 +10729,8 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_ID">
@@ -12336,8 +12341,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="d8f0d5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_EMOJI_ID">
@@ -14039,8 +14045,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="d7f5ee" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_EMOJI_ID">
@@ -15742,8 +15749,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="f5efdf" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_EMOJI_ID">
@@ -17445,8 +17453,9 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d778dd" />
+        <option name="FOREGROUND" value="652e6a" />
         <option name="BACKGROUND" value="f5f5f5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_EMOJI_ID">
