@@ -1,9 +1,18 @@
 <templateSet group="Mocha Tests">
-  <template name="it" value="it('$testname$',()=&gt;{&#10;    // test here&#10;})" description="mocha it should" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="it('$testname$',()=&gt;{&#10;    $test$&#10;})" description="mocha it should" toReformat="false" toShortenFQNames="true">
     <variable name="testname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="describe('$describe$',()=&gt;{&#10;    $it$&#10;})" description="Adds describe block" toReformat="true" toShortenFQNames="true">
+    <variable name="describe" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="it" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
