@@ -8,4 +8,11 @@
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
+  <template name="prom" value="return new Promise((resolve,reject)=&gt;{&#10;    $code$&#10;})" description="inserts return new ES6 promise" toReformat="false" toShortenFQNames="true">
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
