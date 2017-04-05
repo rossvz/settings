@@ -15,4 +15,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="router" value="router.$VERB$('$ROUTE$',(req,res)=&gt;{&#10;    res.send()&#10;})" description="adds an ES6 express route" toReformat="false" toShortenFQNames="true">
+    <variable name="VERB" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
