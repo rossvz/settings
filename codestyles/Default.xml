@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
