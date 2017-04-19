@@ -1,0 +1,8 @@
+<templateSet group="Ross">
+  <template name="rnt" value="import React, {Component} from 'react'&#10;import { connect } from 'react-redux'&#10;&#10;class $Name$ extends Component {&#10;  render(){&#10;    return (&#10;      &lt;div&gt;$Name$&lt;/div&gt;&#10;      )&#10;    }&#10;}&#10;&#10;const connectStateToProps = (state)=&gt;{&#10;    return {} // something off state object&#10;}&#10;&#10;export default connect(&#10;    connectStateToProps,&#10;    {} // actions to be used&#10;    )($Name$)&#10;" description="Create a React-Redux Container Component" toReformat="true" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
