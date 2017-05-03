@@ -12,6 +12,9 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="JS.TypeScript.Compile">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="Macro.reformat and save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
