@@ -504,6 +504,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="32424a" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="678cb1" />
