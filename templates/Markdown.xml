@@ -11,8 +11,6 @@
       <option name="MAVEN" value="false" />
       <option name="MXML" value="false" />
       <option name="OGNL" value="false" />
-      <option name="PL/SQL" value="false" />
-      <option name="SQL" value="false" />
     </context>
   </template>
 </templateSet>
