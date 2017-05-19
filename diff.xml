@@ -25,7 +25,7 @@
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
         </PlaceSettings>
       </entry>
     </option>
