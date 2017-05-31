@@ -4,7 +4,6 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
