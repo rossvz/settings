@@ -19,7 +19,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/Dev/" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/OnCue/sellr-bws" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/OnCue/_experiments" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
