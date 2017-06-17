@@ -8,7 +8,7 @@
   </tool>
   <tool name="Prettier" description="Run prettier on current file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="prettier" />
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v7.10.0/lib/node_modules/prettier/bin/prettier.js" />
       <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
