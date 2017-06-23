@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/usr/local/bin/mongod" />
       <option name="PARAMETERS" value="--config mongodb.config" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/tut/AngularJS Patterns Clean Code/ng-demos/cc-bmean/src/server/data" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Ross/tut/AngularJS Patterns Clean Code/ng-demos/cc-bmean/src/server/data" />
     </exec>
   </tool>
   <tool name="Prettier" description="Run prettier on current file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
