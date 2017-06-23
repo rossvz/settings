@@ -14,13 +14,12 @@
           <option name="url" value="https://trumedia.git.beanstalkapp.com/mom-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sllr/sellr-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dev/" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/OnCue/_experiments" />
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
-    <option name="DETECT_PATCH_ON_THE_FLY" value="true" />
   </component>
 </application>
