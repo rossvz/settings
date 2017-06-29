@@ -1,3 +1,10 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+  </component>
   <component name="LiveEditOptions" autoDelay="2000" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="4" />
+    <option name="tagTreeHighlightingOpacity" value="20" />
+  </component>
 </application>

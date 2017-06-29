@@ -4,7 +4,7 @@
     <property name="created">2017-05-30T14:43:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-06-12T12:59:49</property>
+    <property name="modified">2017-06-29T09:55:48</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -57,7 +57,7 @@
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="303030" />
+    <option name="TEARLINE_COLOR" value="323232" />
     <option name="WHITESPACES" value="616161" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
   </colors>
@@ -293,6 +293,12 @@
       <value>
         <option name="FOREGROUND" value="f77669" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7d7d7d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
@@ -11421,6 +11427,12 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffeb95" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7d7d7d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
