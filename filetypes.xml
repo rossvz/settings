@@ -12,7 +12,6 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="CreateSong.js" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
