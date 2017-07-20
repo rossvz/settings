@@ -10,6 +10,7 @@
       <mapping pattern="PlanManager.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="sdf.js" type="PLAIN_TEXT" />
       <mapping pattern="CreateSong.js" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
