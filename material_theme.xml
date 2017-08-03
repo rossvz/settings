@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="e57373" />
+    <option name="tabsHeight" value="50" />
   </component>
 </application>
