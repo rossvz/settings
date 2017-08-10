@@ -1,10 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="7CB342" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="tabsHeight" value="50" />
+    <option name="themedScrollbars" value="false" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
   </component>
 </application>
