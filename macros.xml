@@ -4,5 +4,10 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="reformat standard">
+      <action id="ReformatCode" />
+      <action id="Javascript.Linters.StandardJS.Fix" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>

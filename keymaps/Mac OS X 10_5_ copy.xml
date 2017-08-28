@@ -18,7 +18,7 @@
   <action id="JS.TypeScript.Compile">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
-  <action id="Macro.reformat and save">
+  <action id="Macro.reformat standard">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
