@@ -16,7 +16,7 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="JS.TypeScript.Compile">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Macro.reformat standard">
     <keyboard-shortcut first-keystroke="meta s" />
