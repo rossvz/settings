@@ -3,17 +3,31 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt escape" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="JS.TypeScript.Compile">
     <keyboard-shortcut first-keystroke="ctrl s" />
