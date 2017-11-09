@@ -4,5 +4,21 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="reformat standard">
+      <action id="ReformatCode" />
+      <action id="Javascript.Linters.StandardJS.Fix" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <action id="ShowReformatFileDialog" />
+      <shortuct text="shift control alt S" />
+      <shortuct text="shift control alt S" />
+      <shortuct text="shift control alt S" />
+      <shortuct text="shift control alt S" />
+      <shortuct text="shift control alt S" />
+      <shortuct text="shift control alt S" />
+      <action id="ReformatCode" />
+      <action id="AutoIndentLines" />
+    </macro>
   </component>
 </application>
