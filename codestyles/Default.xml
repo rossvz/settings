@@ -1,8 +1,12 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="300" />
   <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
   <option name="HTML_QUOTE_STYLE" value="Single" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
