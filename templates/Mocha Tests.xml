@@ -16,4 +16,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="itas" value="it('$testname$', async ()=&gt;{&#10;  $test$&#10;})" description="mocha it should async" toReformat="true" toShortenFQNames="true">
+    <variable name="testname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
