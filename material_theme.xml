@@ -8,12 +8,13 @@
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="4" />
+    <option name="accentColor" value="80cbc4" />
     <option name="wallpaper" value="$USER_HOME$/Pictures/tinified/xJ2tjuUHD9M.png" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="$USER_HOME$/Pictures/tinified/xJ2tjuUHD9M.png" />
-    <option name="customSidebarHeight" value="24" />
+    <option name="customSidebarHeight" value="28" />
   </component>
 </application>
