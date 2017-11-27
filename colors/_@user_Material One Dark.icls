@@ -4,7 +4,7 @@
     <property name="created">2017-11-17T22:37:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-27T11:44:42</property>
+    <property name="modified">2017-11-27T12:01:35</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -13525,7 +13525,6 @@
     <option name="XML_TAG_DATA">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
