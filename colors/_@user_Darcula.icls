@@ -3,7 +3,7 @@
     <property name="created">2018-01-17T09:25:54</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-01-17T10:58:10</property>
+    <property name="modified">2018-01-17T15:40:55</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,7 @@
     <option name="FILESTATUS_HIJACKED" value="e5c17c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="59626f" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="98c379" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="59626f" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="57b6c2" />
