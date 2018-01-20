@@ -13,6 +13,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -38,6 +41,7 @@
   <action id="Macro.reformat and save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="MarkdownNavigator.ListIndent" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
