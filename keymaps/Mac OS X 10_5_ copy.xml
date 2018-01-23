@@ -38,9 +38,6 @@
   <action id="Javascript.Linters.StandardJS.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
-  <action id="Macro.reformat and save">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="MarkdownNavigator.ListIndent" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -52,7 +49,6 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
-  <action id="SaveAll" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="ctrl c" />
