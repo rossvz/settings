@@ -7,7 +7,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="2000" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="2000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="LiveEditOptions" chromeAutoDelay="2000" chromeUpdateOnChanges="true" nodeAutoDelay="2000" />
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingLevelCount" value="4" />
     <option name="tagTreeHighlightingOpacity" value="20" />
