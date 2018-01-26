@@ -38,7 +38,7 @@
   <action id="Javascript.Linters.StandardJS.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
-  <action id="Macro.reformat and save">
+  <action id="Macro.save and compile ts">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MarkdownNavigator.ListIndent" />

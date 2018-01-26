@@ -20,5 +20,10 @@
       <action id="ReformatCode" />
       <action id="AutoIndentLines" />
     </macro>
+    <macro name="save and compile ts">
+      <action id="ReformatCode" />
+      <action id="JS.TypeScript.Compile" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
