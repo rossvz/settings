@@ -127,7 +127,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/prettier-eslint" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Open Files" />
+      <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
@@ -172,7 +172,7 @@
       <option name="workingDir" value="" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--write $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
