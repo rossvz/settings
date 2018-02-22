@@ -172,7 +172,7 @@
       <option name="workingDir" value="" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="fix $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -187,7 +187,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/bin/prettier-tslint" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Open Files" />
+      <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
