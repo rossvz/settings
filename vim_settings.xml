@@ -1,0 +1,83 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" timestamp="1519415586017">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="4" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="4" column="9" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="1" column="26" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="2" column="27" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="5" column="24" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="6" column="26" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="7" column="24" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="8" column="30" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+      <jump line="10" column="14" filename="$USER_HOME$/projects/OnCue/sellr-api/src/api/modules/products/utility/logMerges.ts" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgVXNlcjogJHtwYXlsb2FkLnByb2R1Y3QudXNlcklkfQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgVXNlcjogJHtwYXlsb2FkLnByb2R1Y3QudXNlcklkfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgVGltZTogJHttb21lbnQoKS5mb3JtYXQoKX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgTnVtYmVyIG9mIFByb3BlcnRpZXM6ICR7cGF5bG9hZC5wcm9kdWN0LnByb3BlcnRpZXMubGVuZ3RofQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgTnVtYmVyIG9mIFVQQ3M6ICR7cGF5bG9hZC5wcm9kdWN0LnNrdXMubGVuZ3RofQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgTmV3IHByb2R1Y3QgbmFtZTogJHtwYXlsb2FkLnByb2R1Y3QubmFtZX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgT2xkIHByb2R1Y3RJZHM6ICR7cGF5bG9hZC5wcm9kc1RvRGVsZXRlLmpvaW4oJywgJyl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLS0gTWVyZ2luZyAtLQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZm9vID0gKCkgPT4gewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>payl</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>payl</last-search>
+      <last-offset />
+      <last-pattern>payl</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>default</entry>
+        <entry>next</entry>
+        <entry>prop</entry>
+        <entry>payl</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
