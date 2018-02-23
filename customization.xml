@@ -1,35 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ChangeTemplateDataLanguage" is_action="true" action_type="-1" position="45">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Spy-js.SearchFunction" is_action="true" action_type="-1" position="44">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Plugin_ReactNative_Android_Refresh" is_action="true" action_type="-1" position="43">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompileCoffeeScript" is_action="true" action_type="-1" position="42">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Github.Create.Gist" is_action="true" action_type="-1" position="41">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Github.Open.In.Browser" is_action="true" action_type="-1" position="40">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="InstallNodeLocalDependencies" is_action="true" action_type="-1" position="39">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -226,13 +196,6 @@
       <path value="Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="LocalHistory.PutLabel" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -244,13 +207,6 @@
     <group value="RestoreDefaultExtensionScripts" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.UploadTo" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="AssociateWithFileType" is_action="true" action_type="-1" position="1">
@@ -274,13 +230,6 @@
       <path value="root" />
       <path value="Editor Popup Menu" />
       <path value="EditorPopupMenu3" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.Upload" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowAppliedStylesAction" is_action="true" action_type="1" position="1">
