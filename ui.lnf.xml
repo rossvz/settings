@@ -1,7 +1,4 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="UI_SHOW_FILES" value="false" />
-  </component>
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="FONT_FACE" value=".SFNSText-Regular" />
