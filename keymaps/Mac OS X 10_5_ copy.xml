@@ -29,6 +29,8 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -52,6 +54,9 @@
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="RecentChanges" />
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
