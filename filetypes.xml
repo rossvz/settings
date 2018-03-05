@@ -4,16 +4,15 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="mp3" type="Native" />
+      <mapping pattern="CreateSong.js" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="testSTuff" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="testSTuff" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="sdf.js" type="PLAIN_TEXT" />
       <mapping pattern="SearchScript.js" type="PLAIN_TEXT" />
       <mapping pattern="PlanManager.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="sdf.js" type="PLAIN_TEXT" />
-      <mapping pattern="CreateSong.js" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
