@@ -15,5 +15,6 @@
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="mac.editor.thumb.default.alpha.base" value="102" />
   </component>
 </application>
