@@ -83,7 +83,4 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="Tool_External Tools_Prettier">
-    <keyboard-shortcut first-keystroke="shift alt p" />
-  </action>
 </keymap>
