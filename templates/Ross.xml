@@ -5,4 +5,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="log" value="console.log($value$,$value2$)" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

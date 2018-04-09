@@ -2,6 +2,7 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
       <unmute-on-stop>true</unmute-on-stop>
     </general>
     <debuggers>
