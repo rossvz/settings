@@ -13,11 +13,8 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
-  <action id="EditorCodeBlockEndWithSelection">
-    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
-  </action>
-  <action id="EditorCodeBlockStartWithSelection">
-    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift braceright" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -88,5 +85,8 @@
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
 </keymap>
