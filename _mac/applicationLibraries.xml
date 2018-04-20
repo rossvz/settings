@@ -31,6 +31,11 @@
       <SOURCES />
     </library>
     <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.trumedia.io_static_flatui_js_bootstrap.min.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.trumedia.io_static_flatui_js_bootstrap.min.js" />
       </CLASSES>
@@ -40,6 +45,9 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <option name="frameworkVersion" value="1.8.3" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.trumedia.io_static_flatui_js_jquery-1.8.3.min.js" />
+        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.trumedia.io_static_flatui_js_jquery-1.8.3.min.js" />
@@ -52,6 +60,9 @@
     <library name="jquery-ui-1.10.3.custom" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.trumedia.io_static_flatui_js_jquery-ui-1.10.3.custom.min.js" />
+        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_s3.amazonaws.com_cdn.trumedia.io_static_flatui_js_jquery-ui-1.10.3.custom.min.js" />
@@ -67,6 +78,7 @@
       </properties>
       <CLASSES>
         <root url="file:///usr/local/lib/node_modules/karma-jasmine/lib" />
+        <root url="file:///usr/local/lib/node_modules/karma-jasmine/lib" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -77,12 +89,22 @@
       <SOURCES />
     </library>
     <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="rfa0gft" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_rfa0gft.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.typekit.net_rfa0gft.js" />
       </CLASSES>
