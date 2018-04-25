@@ -57,6 +57,10 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
