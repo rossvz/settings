@@ -9,20 +9,14 @@
       <action id="Javascript.Linters.StandardJS.Fix" />
       <action id="SaveAll" />
     </macro>
-    <macro name="&lt;noname&gt;">
-      <action id="ShowReformatFileDialog" />
-      <shortuct text="shift control alt S" />
-      <shortuct text="shift control alt S" />
-      <shortuct text="shift control alt S" />
-      <shortuct text="shift control alt S" />
-      <shortuct text="shift control alt S" />
-      <shortuct text="shift control alt S" />
+    <macro name="prettier and save">
       <action id="ReformatCode" />
-      <action id="AutoIndentLines" />
+      <action id="Tool_External Tools_Prettier" />
+      <action id="SaveAll" />
     </macro>
-    <macro name="save and compile ts">
+    <macro name="format and prettier and save">
       <action id="ReformatCode" />
-      <action id="JS.TypeScript.Compile" />
+      <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
   </component>
