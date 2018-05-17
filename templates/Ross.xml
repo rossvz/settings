@@ -13,4 +13,20 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="test" value="test('$TITLE$', t =&gt; {&#10;    $TEST$&#10;})" description="Ava test" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="atest" value="test('$TITLE$', async (t) =&gt; {&#10;    $TEST$&#10;})" description="Ava Async Test" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
