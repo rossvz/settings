@@ -14,5 +14,6 @@
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="customSidebarHeight" value="28" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
