@@ -13,6 +13,7 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
+  <action id="EditorCutLineEnd" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -26,6 +27,9 @@
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="shift meta p" />
