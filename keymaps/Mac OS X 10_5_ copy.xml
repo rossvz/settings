@@ -42,6 +42,10 @@
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
