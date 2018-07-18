@@ -1,146 +1,11 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="InstallNodeLocalDependencies" is_action="true" action_type="-1" position="39">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="AddSourcesContentToSourceMap" is_action="true" action_type="-1" position="38">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="VisualizeSourceMap" is_action="true" action_type="-1" position="37">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EslintImportCodeStyle" is_action="true" action_type="-1" position="36">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Javascript.Linters.StandardJS.Fix" is_action="true" action_type="-1" position="35">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Javascript.Linters.EsLint.Fix" is_action="true" action_type="-1" position="34">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Javascript.Linters.JSCS.Fix" is_action="true" action_type="-1" position="33">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="JS.TypeScript.Include.Generated.Declarations" is_action="true" action_type="-1" position="32">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="JS.TypeScript.Compile.Current" is_action="true" action_type="-1" position="31">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Editor.JSLibrariesMenu" is_group="true" action_type="-1" position="30">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Ignore.UnignoreGroup" is_group="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Ignore.IgnoreGroup" is_group="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroupPopupMenu" is_group="true" action_type="-1" position="25">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="UML.EditorGroup" is_group="true" action_type="-1" position="24">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="23">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PhpStorm.RemoveBom" is_group="true" action_type="-1" position="22">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangeFileEncodingAction" is_action="true" action_type="-1" position="21">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareClipboardWithSelection" is_action="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Images.ShowThumbnails" is_action="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="$SearchWeb" is_action="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AddToFavorites" is_group="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="InspectCode" is_action="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorToggleColumnMode" is_action="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPasteSimple" is_action="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PasteMultiple" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Images.EditExternally" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Images.ConvertSvgToPng" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyReference" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
@@ -158,21 +23,11 @@
       <path value="Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CopyAsRichText" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Debugger.AddToWatch" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <path value="Editor Popup Menu Actions (2)" />
       <path value="Debug Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyAsPlainText" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="FoldingGroup" is_group="true" action_type="-1" position="3">
@@ -212,12 +67,6 @@
     <group value="AssociateWithFileType" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.ChangeLanguage" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="Project View Popup Menu Modify Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Scratch.ChangeLanguage" is_action="true" action_type="-1" position="0">
