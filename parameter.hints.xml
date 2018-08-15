@@ -3,7 +3,6 @@
     <blacklists>
       <blacklist language="TypeScript">
         <added pattern="Array.filter(callbackfn,thisArg)" />
-        <added pattern="Array.map(callbackfn,thisArg)" />
       </blacklist>
     </blacklists>
     <option id="js.show.names.for.all.args" value="true" />
