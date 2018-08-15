@@ -1,5 +1,6 @@
 <application>
   <component name="NightOwlThemeConfig">
+    <option name="appearanceSettingsEnabled" value="true" />
     <option name="setup" value="false" />
   </component>
 </application>
